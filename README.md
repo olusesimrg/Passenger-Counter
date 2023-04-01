@@ -3,4 +3,4 @@
 
 it counts people entering the subway
 
-https://olusesimrg.github.io/Javascript-Intro/
+https://olusesimrg.github.io/Passenger-Counter/
