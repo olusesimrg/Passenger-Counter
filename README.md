@@ -1,6 +1,6 @@
-# Javascript-Intro
+# Passenger Counter
 
 
-Write a javascript code that prints out your name, height, and country on the screen
+it counts people entering the subway
 
 https://olusesimrg.github.io/Javascript-Intro/
