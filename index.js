@@ -1,11 +1,5 @@
 
-// const name1 = prompt('What is your Name?');
-// const height = prompt('whats your height?');
-// const country = prompt('Where are you from?');
 
-
-// document.write(name1 + " " + height + " "+ country);
-// console.log(country);
 let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
 let count = 0
